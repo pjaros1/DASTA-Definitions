@@ -362,3 +362,6 @@ MigrationBackup/
 **/.idea/**/*.iml
 **/.idea/**/contentModel.xml
 **/.idea/**/modules.xml
+
+# macOS Finder metadata
+.DS_Store
